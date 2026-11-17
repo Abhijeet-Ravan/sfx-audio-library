@@ -7,7 +7,10 @@
         "Hook",
         "Cinematic start"
       ],
-      "duration_seconds": 4.0
+      "duration_seconds": 4.0,
+      "mix_role": "accent",
+      "integrated_lufs": -6.9,
+      "true_peak_dbtp": -0.7
     },
     {
       "file": "01_Hooks/glitch_hologram_whoosh.mp3",
@@ -16,7 +19,10 @@
         "Hook",
         "Fast cuts"
       ],
-      "duration_seconds": 3.0
+      "duration_seconds": 3.0,
+      "mix_role": "transition",
+      "integrated_lufs": -10.5,
+      "true_peak_dbtp": -0.4
     },
     {
       "file": "01_Hooks/bass_boom.mp3",
@@ -25,7 +31,10 @@
         "Hook",
         "Cinematic start"
       ],
-      "duration_seconds": 10.35
+      "duration_seconds": 10.35,
+      "mix_role": "impact",
+      "integrated_lufs": -17.3,
+      "true_peak_dbtp": -3.1
     },
     {
       "file": "02_Context_UI/ui_bubble_pop.mp3",
@@ -34,7 +43,10 @@
         "Context",
         "Graphic pop-up"
       ],
-      "duration_seconds": 0.24
+      "duration_seconds": 0.24,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": -4.6
     },
     {
       "file": "02_Context_UI/paper_crumple.mp3",
@@ -43,7 +55,10 @@
         "Context",
         "Discarding an idea"
       ],
-      "duration_seconds": 48.36
+      "duration_seconds": 48.36,
+      "mix_role": "accent",
+      "integrated_lufs": -25.9,
+      "true_peak_dbtp": -2.8
     },
     {
       "file": "02_Context_UI/mouse_click.mp3",
@@ -53,7 +68,10 @@
         "Tech",
         "Business"
       ],
-      "duration_seconds": 1.24
+      "duration_seconds": 1.24,
+      "mix_role": "accent",
+      "integrated_lufs": -23.7,
+      "true_peak_dbtp": 0.6
     },
     {
       "file": "02_Context_UI/ambient_drone.mp3",
@@ -62,7 +80,10 @@
         "Context",
         "Low background bed"
       ],
-      "duration_seconds": 179.95
+      "duration_seconds": 179.95,
+      "mix_role": "bed",
+      "integrated_lufs": -13.4,
+      "true_peak_dbtp": -0.5
     },
     {
       "file": "02_Context_UI/whiteboard_marker_squeak.mp3",
@@ -71,7 +92,10 @@
         "Context",
         "Explaining concepts"
       ],
-      "duration_seconds": 5.25
+      "duration_seconds": 5.25,
+      "mix_role": "accent",
+      "integrated_lufs": -35.5,
+      "true_peak_dbtp": -10.9
     },
     {
       "file": "02_Context_UI/chalkboard_tap.mp3",
@@ -80,7 +104,10 @@
         "Context",
         "Explaining concepts"
       ],
-      "duration_seconds": 0.09
+      "duration_seconds": 0.09,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": -16.2
     },
     {
       "file": "03_Tension/racing_heartbeat.mp3",
@@ -89,7 +116,10 @@
         "Tension",
         "Storytelling"
       ],
-      "duration_seconds": 6.0
+      "duration_seconds": 6.0,
+      "mix_role": "accent",
+      "integrated_lufs": -22.1,
+      "true_peak_dbtp": -4.5
     },
     {
       "file": "03_Tension/synth_tension_riser.mp3",
@@ -98,7 +128,10 @@
         "Tension",
         "Build"
       ],
-      "duration_seconds": 15.0
+      "duration_seconds": 15.0,
+      "mix_role": "transition",
+      "integrated_lufs": -18.7,
+      "true_peak_dbtp": -11.7
     },
     {
       "file": "03_Tension/orchestral_swell.mp3",
@@ -107,7 +140,10 @@
         "Tension",
         "Drama"
       ],
-      "duration_seconds": 5.0
+      "duration_seconds": 5.0,
+      "mix_role": "transition",
+      "integrated_lufs": -12.1,
+      "true_peak_dbtp": 0.6
     },
     {
       "file": "03_Tension/low_frequency_bass_drone.mp3",
@@ -116,7 +152,10 @@
         "Tension",
         "Suspense"
       ],
-      "duration_seconds": 65.14
+      "duration_seconds": 65.14,
+      "mix_role": "bed",
+      "integrated_lufs": -16.2,
+      "true_peak_dbtp": -0.3
     },
     {
       "file": "03_Tension/tinnitus_ringing_drone.mp3",
@@ -125,7 +164,10 @@
         "Tension",
         "Intense focus"
       ],
-      "duration_seconds": 20.05
+      "duration_seconds": 20.05,
+      "mix_role": "bed",
+      "integrated_lufs": -17.7,
+      "true_peak_dbtp": -16.8
     },
     {
       "file": "03_Tension/deep_thumps.mp3",
@@ -134,7 +176,10 @@
         "Tension",
         "Approach"
       ],
-      "duration_seconds": 11.33
+      "duration_seconds": 11.33,
+      "mix_role": "impact",
+      "integrated_lufs": -25.1,
+      "true_peak_dbtp": -5.4
     },
     {
       "file": "04_Climax_Impacts/cinematic_trailer_boom.mp3",
@@ -143,7 +188,10 @@
         "Climax",
         "Reveal"
       ],
-      "duration_seconds": 6.86
+      "duration_seconds": 6.86,
+      "mix_role": "impact",
+      "integrated_lufs": -18.6,
+      "true_peak_dbtp": -0.3
     },
     {
       "file": "04_Climax_Impacts/808_bass_drop.mp3",
@@ -152,7 +200,10 @@
         "Climax",
         "Punchline"
       ],
-      "duration_seconds": 4.71
+      "duration_seconds": 4.71,
+      "mix_role": "impact",
+      "integrated_lufs": -11.3,
+      "true_peak_dbtp": -0.5
     },
     {
       "file": "04_Climax_Impacts/tape_stop.mp3",
@@ -161,7 +212,10 @@
         "Climax",
         "Comedy"
       ],
-      "duration_seconds": 18.99
+      "duration_seconds": 18.99,
+      "mix_role": "transition",
+      "integrated_lufs": -28.8,
+      "true_peak_dbtp": -3.3
     },
     {
       "file": "04_Climax_Impacts/censor_beep_1003hz.mp3",
@@ -170,7 +224,10 @@
         "Climax",
         "Speech censor"
       ],
-      "duration_seconds": 0.4
+      "duration_seconds": 0.4,
+      "mix_role": "impact",
+      "integrated_lufs": -9.9,
+      "true_peak_dbtp": -0.3
     },
     {
       "file": "04_Climax_Impacts/cash_register_cha_ching.mp3",
@@ -179,7 +236,10 @@
         "Climax",
         "Business win"
       ],
-      "duration_seconds": 3.45
+      "duration_seconds": 3.45,
+      "mix_role": "impact",
+      "integrated_lufs": -14.6,
+      "true_peak_dbtp": -0.9
     },
     {
       "file": "05_Reactions/light_ping_chime.mp3",
@@ -188,7 +248,10 @@
         "Reaction",
         "Idea reveal"
       ],
-      "duration_seconds": 6.63
+      "duration_seconds": 6.63,
+      "mix_role": "accent",
+      "integrated_lufs": -31.6,
+      "true_peak_dbtp": -9.7
     },
     {
       "file": "05_Reactions/cartoon_spring_boing.mp3",
@@ -197,7 +260,10 @@
         "Reaction",
         "Comedy"
       ],
-      "duration_seconds": 0.64
+      "duration_seconds": 0.64,
+      "mix_role": "accent",
+      "integrated_lufs": -22.6,
+      "true_peak_dbtp": -11.7
     },
     {
       "file": "05_Reactions/small_crowd_reaction.mp3",
@@ -206,7 +272,10 @@
         "Reaction",
         "Surprise"
       ],
-      "duration_seconds": 37.45
+      "duration_seconds": 37.45,
+      "mix_role": "accent",
+      "integrated_lufs": -16.6,
+      "true_peak_dbtp": 0.4
     },
     {
       "file": "05_Reactions/sarcastic_slow_clap.mp3",
@@ -215,7 +284,10 @@
         "Reaction",
         "Comedy"
       ],
-      "duration_seconds": 0.96
+      "duration_seconds": 0.96,
+      "mix_role": "accent",
+      "integrated_lufs": -14.1,
+      "true_peak_dbtp": -0.7
     },
     {
       "file": "05_Reactions/camera_shutter.mp3",
@@ -224,7 +296,10 @@
         "Reaction",
         "Freeze frame"
       ],
-      "duration_seconds": 4.5
+      "duration_seconds": 4.5,
+      "mix_role": "accent",
+      "integrated_lufs": -23.8,
+      "true_peak_dbtp": 0.5
     },
     {
       "file": "05_Reactions/wrong_answer_buzzer.mp3",
@@ -233,7 +308,10 @@
         "Reaction",
         "Wrong answer"
       ],
-      "duration_seconds": 2.77
+      "duration_seconds": 2.77,
+      "mix_role": "accent",
+      "integrated_lufs": -13.4,
+      "true_peak_dbtp": -4.5
     },
     {
       "file": "05_Reactions/success_vibraphone_triad.mp3",
@@ -242,7 +320,10 @@
         "Reaction",
         "Positive result"
       ],
-      "duration_seconds": 2.42
+      "duration_seconds": 2.42,
+      "mix_role": "accent",
+      "integrated_lufs": -20.9,
+      "true_peak_dbtp": -9.9
     },
     {
       "file": "06_Outro/reverse_cymbal_swell.mp3",
@@ -251,7 +332,10 @@
         "Outro",
         "Transition"
       ],
-      "duration_seconds": 2.9
+      "duration_seconds": 2.9,
+      "mix_role": "transition",
+      "integrated_lufs": -14.6,
+      "true_peak_dbtp": 1.9
     },
     {
       "file": "06_Outro/warm_ambient_pad_chord.mp3",
@@ -260,7 +344,10 @@
         "Outro",
         "Reflective close"
       ],
-      "duration_seconds": 32.62
+      "duration_seconds": 32.62,
+      "mix_role": "bed",
+      "integrated_lufs": -20.1,
+      "true_peak_dbtp": -5.2
     },
     {
       "file": "06_Outro/vinyl_crackle.mp3",
@@ -269,7 +356,10 @@
         "Outro",
         "Vintage texture"
       ],
-      "duration_seconds": 9.65
+      "duration_seconds": 9.65,
+      "mix_role": "bed",
+      "integrated_lufs": -41.1,
+      "true_peak_dbtp": -6.1
     },
     {
       "file": "06_Outro/tv_switch_off.mp3",
@@ -278,7 +368,10 @@
         "Outro",
         "End beat"
       ],
-      "duration_seconds": 8.0
+      "duration_seconds": 8.0,
+      "mix_role": "accent",
+      "integrated_lufs": -16.7,
+      "true_peak_dbtp": -3.1
     },
     {
       "file": "06_Outro/soft_whoosh_tail.mp3",
@@ -287,7 +380,10 @@
         "Outro",
         "Transition"
       ],
-      "duration_seconds": 0.47
+      "duration_seconds": 0.47,
+      "mix_role": "transition",
+      "integrated_lufs": -37.6,
+      "true_peak_dbtp": -12.3
     },
     {
       "file": "06_Outro/resolution_chime_triad.mp3",
@@ -296,7 +392,10 @@
         "Outro",
         "Takeaway"
       ],
-      "duration_seconds": 2.42
+      "duration_seconds": 2.42,
+      "mix_role": "accent",
+      "integrated_lufs": -20.9,
+      "true_peak_dbtp": -9.9
     },
     {
       "file": "niche_variations/dark_subharmonic_drone.mp3",
@@ -305,7 +404,10 @@
         "True crime",
         "Drama"
       ],
-      "duration_seconds": 179.95
+      "duration_seconds": 179.95,
+      "mix_role": "bed",
+      "integrated_lufs": -16.3,
+      "true_peak_dbtp": -1.5
     },
     {
       "file": "niche_variations/distant_police_siren.mp3",
@@ -314,7 +416,10 @@
         "Storytelling",
         "True crime"
       ],
-      "duration_seconds": 18.8
+      "duration_seconds": 18.8,
+      "mix_role": "accent",
+      "integrated_lufs": -20.4,
+      "true_peak_dbtp": -2.8
     },
     {
       "file": "niche_variations/police_radio_chirp.mp3",
@@ -323,7 +428,10 @@
         "Storytelling",
         "True crime"
       ],
-      "duration_seconds": 0.36
+      "duration_seconds": 0.36,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": -6.3
     },
     {
       "file": "niche_variations/howling_wind.mp3",
@@ -332,7 +440,10 @@
         "Storytelling",
         "Drama"
       ],
-      "duration_seconds": 25.47
+      "duration_seconds": 25.47,
+      "mix_role": "bed",
+      "integrated_lufs": -12.5,
+      "true_peak_dbtp": -0.2
     },
     {
       "file": "niche_variations/slide_whistle.mp3",
@@ -341,7 +452,10 @@
         "Comedy",
         "Banter"
       ],
-      "duration_seconds": 19.71
+      "duration_seconds": 19.71,
+      "mix_role": "accent",
+      "integrated_lufs": -10.6,
+      "true_peak_dbtp": -1.9
     },
     {
       "file": "niche_variations/jaw_harp.mp3",
@@ -350,7 +464,10 @@
         "Comedy",
         "Banter"
       ],
-      "duration_seconds": 2.2
+      "duration_seconds": 2.2,
+      "mix_role": "accent",
+      "integrated_lufs": -33.5,
+      "true_peak_dbtp": -18.5
     },
     {
       "file": "niche_variations/glass_ping.mp3",
@@ -359,7 +476,10 @@
         "Business",
         "Tech"
       ],
-      "duration_seconds": 0.4
+      "duration_seconds": 0.4,
+      "mix_role": "accent",
+      "integrated_lufs": -24.4,
+      "true_peak_dbtp": -7.8
     },
     {
       "file": "niche_variations/retro_coin_collect.mp3",
@@ -368,7 +488,10 @@
         "Gaming",
         "Pop culture"
       ],
-      "duration_seconds": 0.29
+      "duration_seconds": 0.29,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": -0.1
     },
     {
       "file": "niche_variations/level_up.mp3",
@@ -377,7 +500,10 @@
         "Gaming",
         "Pop culture"
       ],
-      "duration_seconds": 0.62
+      "duration_seconds": 0.62,
+      "mix_role": "accent",
+      "integrated_lufs": -27.3,
+      "true_peak_dbtp": -21.6
     },
     {
       "file": "niche_variations/arcade_laser.mp3",
@@ -386,7 +512,10 @@
         "Gaming",
         "Pop culture"
       ],
-      "duration_seconds": 0.19
+      "duration_seconds": 0.19,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": -6.7
     },
     {
       "file": "niche_variations/console_startup.mp3",
@@ -395,7 +524,10 @@
         "Gaming",
         "Pop culture"
       ],
-      "duration_seconds": 14.85
+      "duration_seconds": 14.85,
+      "mix_role": "accent",
+      "integrated_lufs": -18.4,
+      "true_peak_dbtp": -3.5
     },
     {
       "file": "niche_variations/breath_out.mp3",
@@ -405,7 +537,10 @@
         "Fitness",
         "Lifestyle"
       ],
-      "duration_seconds": 8.14
+      "duration_seconds": 8.14,
+      "mix_role": "accent",
+      "integrated_lufs": -36.4,
+      "true_peak_dbtp": -23.5
     },
     {
       "file": "niche_variations/cartoon_water_drop.mp3",
@@ -414,7 +549,10 @@
         "Health",
         "Lifestyle"
       ],
-      "duration_seconds": 0.38
+      "duration_seconds": 0.38,
+      "mix_role": "accent",
+      "integrated_lufs": null,
+      "true_peak_dbtp": 1.5
     },
     {
       "file": "niche_variations/fabric_swoosh.mp3",
@@ -423,7 +561,10 @@
         "Lifestyle",
         "Transitions"
       ],
-      "duration_seconds": 4.59
+      "duration_seconds": 4.59,
+      "mix_role": "transition",
+      "integrated_lufs": -13.5,
+      "true_peak_dbtp": -0.1
     },
     {
       "file": "05_Reactions/crowd_aah_reaction.mp3",
@@ -432,7 +573,10 @@
         "Reaction",
         "Surprise"
       ],
-      "duration_seconds": 14.9
+      "duration_seconds": 14.9,
+      "mix_role": "accent",
+      "integrated_lufs": -18.2,
+      "true_peak_dbtp": -1.7
     },
     {
       "file": "01_Hooks/tape_rewind.mp3",
@@ -441,7 +585,10 @@
         "Hook",
         "Rewind"
       ],
-      "duration_seconds": 25.31
+      "duration_seconds": 25.31,
+      "mix_role": "transition",
+      "integrated_lufs": -20.5,
+      "true_peak_dbtp": -4.6
     },
     {
       "file": "06_Outro/smooth_fade_out_whoosh.mp3",
@@ -450,7 +597,10 @@
         "Outro",
         "Soft transition"
       ],
-      "duration_seconds": 0.47
+      "duration_seconds": 0.47,
+      "mix_role": "transition",
+      "integrated_lufs": -38.5,
+      "true_peak_dbtp": -13.2
     },
     {
       "file": "01_Hooks/reverse_rise_crash.mp3",
@@ -459,7 +609,10 @@
         "Hook",
         "Reverse riser"
       ],
-      "duration_seconds": 7.76
+      "duration_seconds": 7.76,
+      "mix_role": "transition",
+      "integrated_lufs": -21.4,
+      "true_peak_dbtp": -7.3
     },
     {
       "file": "03_Tension/strings_riser_impact.mp3",
@@ -469,7 +622,18 @@
         "Impact",
         "Climax"
       ],
-      "duration_seconds": 14.35
+      "duration_seconds": 14.35,
+      "mix_role": "transition",
+      "integrated_lufs": -13.1,
+      "true_peak_dbtp": -1.2
     }
-  ]
+  ],
+  "mixing_guidance": {
+    "preserve_source_dynamics": true,
+    "apply_gain_at_render_time": true,
+    "mix_against_dialogue": true,
+    "do_not_normalize_all_assets_to_one_loudness": true,
+    "final_mix_true_peak_ceiling_dbtp": -1.0,
+    "measurement_note": "integrated_lufs is ITU-R BS.1770 loudness; null for events shorter than 0.4 seconds or below the meter gate. true_peak_dbtp is measured on decoded audio."
+  }
 }
