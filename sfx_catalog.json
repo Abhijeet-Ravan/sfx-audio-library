@@ -57,12 +57,12 @@
     },
     {
       "file": "02_Context_UI/ambient_drone.mp3",
-      "description": "A complex shifting ambient drone.",
+      "description": "A complex shifting ambient drone, trimmed to 3 minutes.",
       "best_for": [
         "Context",
         "Low background bed"
       ],
-      "duration_seconds": 1013.04
+      "duration_seconds": 179.95
     },
     {
       "file": "02_Context_UI/whiteboard_marker_squeak.mp3",
