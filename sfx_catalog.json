@@ -1,0 +1,475 @@
+{
+  "sounds": [
+    {
+      "file": "01_Hooks/sub_bass_rumble_drop.mp3",
+      "description": "A low sub-bass rumble with a drop.",
+      "best_for": [
+        "Hook",
+        "Cinematic start"
+      ],
+      "duration_seconds": 4.0
+    },
+    {
+      "file": "01_Hooks/glitch_hologram_whoosh.mp3",
+      "description": "A glitchy whoosh transition.",
+      "best_for": [
+        "Hook",
+        "Fast cuts"
+      ],
+      "duration_seconds": 3.0
+    },
+    {
+      "file": "01_Hooks/bass_boom.mp3",
+      "description": "A low bass boom for a strong opening accent.",
+      "best_for": [
+        "Hook",
+        "Cinematic start"
+      ],
+      "duration_seconds": 10.35
+    },
+    {
+      "file": "02_Context_UI/ui_bubble_pop.mp3",
+      "description": "A short bubble-like UI pop.",
+      "best_for": [
+        "Context",
+        "Graphic pop-up"
+      ],
+      "duration_seconds": 0.24
+    },
+    {
+      "file": "02_Context_UI/paper_crumple.mp3",
+      "description": "A brief crumpling paper sound.",
+      "best_for": [
+        "Context",
+        "Discarding an idea"
+      ],
+      "duration_seconds": 48.36
+    },
+    {
+      "file": "02_Context_UI/mouse_click.mp3",
+      "description": "A single mouse click.",
+      "best_for": [
+        "Context",
+        "Tech",
+        "Business"
+      ],
+      "duration_seconds": 1.24
+    },
+    {
+      "file": "02_Context_UI/ambient_drone.mp3",
+      "description": "A complex shifting ambient drone.",
+      "best_for": [
+        "Context",
+        "Low background bed"
+      ],
+      "duration_seconds": 1013.04
+    },
+    {
+      "file": "02_Context_UI/whiteboard_marker_squeak.mp3",
+      "description": "A marker squeak on a whiteboard.",
+      "best_for": [
+        "Context",
+        "Explaining concepts"
+      ],
+      "duration_seconds": 5.25
+    },
+    {
+      "file": "02_Context_UI/chalkboard_tap.mp3",
+      "description": "A short tap on a chalkboard.",
+      "best_for": [
+        "Context",
+        "Explaining concepts"
+      ],
+      "duration_seconds": 0.09
+    },
+    {
+      "file": "03_Tension/racing_heartbeat.mp3",
+      "description": "A pulsing heartbeat for escalating tension.",
+      "best_for": [
+        "Tension",
+        "Storytelling"
+      ],
+      "duration_seconds": 6.0
+    },
+    {
+      "file": "03_Tension/synth_tension_riser.mp3",
+      "description": "A long synth tension riser.",
+      "best_for": [
+        "Tension",
+        "Build"
+      ],
+      "duration_seconds": 15.0
+    },
+    {
+      "file": "03_Tension/orchestral_swell.mp3",
+      "description": "A cinematic swell for a dramatic build.",
+      "best_for": [
+        "Tension",
+        "Drama"
+      ],
+      "duration_seconds": 5.0
+    },
+    {
+      "file": "03_Tension/low_frequency_bass_drone.mp3",
+      "description": "A slowly moving low-frequency bass drone.",
+      "best_for": [
+        "Tension",
+        "Suspense"
+      ],
+      "duration_seconds": 65.14
+    },
+    {
+      "file": "03_Tension/tinnitus_ringing_drone.mp3",
+      "description": "A sustained high ringing tone.",
+      "best_for": [
+        "Tension",
+        "Intense focus"
+      ],
+      "duration_seconds": 20.05
+    },
+    {
+      "file": "03_Tension/deep_thumps.mp3",
+      "description": "A sequence of thumps, bumps, and plucks.",
+      "best_for": [
+        "Tension",
+        "Approach"
+      ],
+      "duration_seconds": 11.33
+    },
+    {
+      "file": "04_Climax_Impacts/cinematic_trailer_boom.mp3",
+      "description": "A cinematic trailer boom impact.",
+      "best_for": [
+        "Climax",
+        "Reveal"
+      ],
+      "duration_seconds": 6.86
+    },
+    {
+      "file": "04_Climax_Impacts/808_bass_drop.mp3",
+      "description": "A heavy bass drop.",
+      "best_for": [
+        "Climax",
+        "Punchline"
+      ],
+      "duration_seconds": 4.71
+    },
+    {
+      "file": "04_Climax_Impacts/tape_stop.mp3",
+      "description": "A tape-stop slowdown effect.",
+      "best_for": [
+        "Climax",
+        "Comedy"
+      ],
+      "duration_seconds": 18.99
+    },
+    {
+      "file": "04_Climax_Impacts/censor_beep_1003hz.mp3",
+      "description": "A 1,003 Hz censor beep.",
+      "best_for": [
+        "Climax",
+        "Speech censor"
+      ],
+      "duration_seconds": 0.4
+    },
+    {
+      "file": "04_Climax_Impacts/cash_register_cha_ching.mp3",
+      "description": "A cash-register style cha-ching.",
+      "best_for": [
+        "Climax",
+        "Business win"
+      ],
+      "duration_seconds": 3.45
+    },
+    {
+      "file": "05_Reactions/light_ping_chime.mp3",
+      "description": "A light chime-like ping.",
+      "best_for": [
+        "Reaction",
+        "Idea reveal"
+      ],
+      "duration_seconds": 6.63
+    },
+    {
+      "file": "05_Reactions/cartoon_spring_boing.mp3",
+      "description": "A springy cartoon boing.",
+      "best_for": [
+        "Reaction",
+        "Comedy"
+      ],
+      "duration_seconds": 0.64
+    },
+    {
+      "file": "05_Reactions/small_crowd_reaction.mp3",
+      "description": "A small crowd reaction for a shared surprise.",
+      "best_for": [
+        "Reaction",
+        "Surprise"
+      ],
+      "duration_seconds": 37.45
+    },
+    {
+      "file": "05_Reactions/sarcastic_slow_clap.mp3",
+      "description": "A slow clap for a sarcastic reaction.",
+      "best_for": [
+        "Reaction",
+        "Comedy"
+      ],
+      "duration_seconds": 0.96
+    },
+    {
+      "file": "05_Reactions/camera_shutter.mp3",
+      "description": "A camera shutter snap.",
+      "best_for": [
+        "Reaction",
+        "Freeze frame"
+      ],
+      "duration_seconds": 4.5
+    },
+    {
+      "file": "05_Reactions/wrong_answer_buzzer.mp3",
+      "description": "A buzzer for a wrong answer or error.",
+      "best_for": [
+        "Reaction",
+        "Wrong answer"
+      ],
+      "duration_seconds": 2.77
+    },
+    {
+      "file": "05_Reactions/success_vibraphone_triad.mp3",
+      "description": "A bright three-note success chime.",
+      "best_for": [
+        "Reaction",
+        "Positive result"
+      ],
+      "duration_seconds": 2.42
+    },
+    {
+      "file": "06_Outro/reverse_cymbal_swell.mp3",
+      "description": "A reversed cymbal swell for a transition.",
+      "best_for": [
+        "Outro",
+        "Transition"
+      ],
+      "duration_seconds": 2.9
+    },
+    {
+      "file": "06_Outro/warm_ambient_pad_chord.mp3",
+      "description": "A warm sustained synth-pad chord.",
+      "best_for": [
+        "Outro",
+        "Reflective close"
+      ],
+      "duration_seconds": 32.62
+    },
+    {
+      "file": "06_Outro/vinyl_crackle.mp3",
+      "description": "Soft vinyl surface crackle.",
+      "best_for": [
+        "Outro",
+        "Vintage texture"
+      ],
+      "duration_seconds": 9.65
+    },
+    {
+      "file": "06_Outro/tv_switch_off.mp3",
+      "description": "A television switch-off sound.",
+      "best_for": [
+        "Outro",
+        "End beat"
+      ],
+      "duration_seconds": 8.0
+    },
+    {
+      "file": "06_Outro/soft_whoosh_tail.mp3",
+      "description": "A soft low whoosh for a gentle transition.",
+      "best_for": [
+        "Outro",
+        "Transition"
+      ],
+      "duration_seconds": 0.47
+    },
+    {
+      "file": "06_Outro/resolution_chime_triad.mp3",
+      "description": "A bright resolving three-note chime.",
+      "best_for": [
+        "Outro",
+        "Takeaway"
+      ],
+      "duration_seconds": 2.42
+    },
+    {
+      "file": "niche_variations/dark_subharmonic_drone.mp3",
+      "description": "A dark subharmonic drone for dramatic scenes.",
+      "best_for": [
+        "True crime",
+        "Drama"
+      ],
+      "duration_seconds": 300.0
+    },
+    {
+      "file": "niche_variations/distant_police_siren.mp3",
+      "description": "A distant police siren.",
+      "best_for": [
+        "Storytelling",
+        "True crime"
+      ],
+      "duration_seconds": 18.8
+    },
+    {
+      "file": "niche_variations/police_radio_chirp.mp3",
+      "description": "A short police-radio chirp.",
+      "best_for": [
+        "Storytelling",
+        "True crime"
+      ],
+      "duration_seconds": 0.36
+    },
+    {
+      "file": "niche_variations/howling_wind.mp3",
+      "description": "A howling wind effect.",
+      "best_for": [
+        "Storytelling",
+        "Drama"
+      ],
+      "duration_seconds": 25.47
+    },
+    {
+      "file": "niche_variations/slide_whistle.mp3",
+      "description": "A playful slide whistle.",
+      "best_for": [
+        "Comedy",
+        "Banter"
+      ],
+      "duration_seconds": 19.71
+    },
+    {
+      "file": "niche_variations/jaw_harp.mp3",
+      "description": "A twangy jaw harp accent.",
+      "best_for": [
+        "Comedy",
+        "Banter"
+      ],
+      "duration_seconds": 2.2
+    },
+    {
+      "file": "niche_variations/glass_ping.mp3",
+      "description": "A clean glassy ping.",
+      "best_for": [
+        "Business",
+        "Tech"
+      ],
+      "duration_seconds": 0.4
+    },
+    {
+      "file": "niche_variations/retro_coin_collect.mp3",
+      "description": "A retro 8-bit coin-collect sound.",
+      "best_for": [
+        "Gaming",
+        "Pop culture"
+      ],
+      "duration_seconds": 0.29
+    },
+    {
+      "file": "niche_variations/level_up.mp3",
+      "description": "A retro level-up effect.",
+      "best_for": [
+        "Gaming",
+        "Pop culture"
+      ],
+      "duration_seconds": 0.62
+    },
+    {
+      "file": "niche_variations/arcade_laser.mp3",
+      "description": "An 8-bit arcade laser shot.",
+      "best_for": [
+        "Gaming",
+        "Pop culture"
+      ],
+      "duration_seconds": 0.19
+    },
+    {
+      "file": "niche_variations/console_startup.mp3",
+      "description": "A video-game console startup sound.",
+      "best_for": [
+        "Gaming",
+        "Pop culture"
+      ],
+      "duration_seconds": 14.85
+    },
+    {
+      "file": "niche_variations/breath_out.mp3",
+      "description": "A human breath out.",
+      "best_for": [
+        "Health",
+        "Fitness",
+        "Lifestyle"
+      ],
+      "duration_seconds": 8.14
+    },
+    {
+      "file": "niche_variations/cartoon_water_drop.mp3",
+      "description": "A cartoon water-drop effect.",
+      "best_for": [
+        "Health",
+        "Lifestyle"
+      ],
+      "duration_seconds": 0.38
+    },
+    {
+      "file": "niche_variations/fabric_swoosh.mp3",
+      "description": "A swishing material sound.",
+      "best_for": [
+        "Lifestyle",
+        "Transitions"
+      ],
+      "duration_seconds": 4.59
+    },
+    {
+      "file": "05_Reactions/crowd_aah_reaction.mp3",
+      "description": "A crowd exclamation for a shared reaction.",
+      "best_for": [
+        "Reaction",
+        "Surprise"
+      ],
+      "duration_seconds": 14.9
+    },
+    {
+      "file": "01_Hooks/tape_rewind.mp3",
+      "description": "A tape rewinding sound for a quick rewind transition.",
+      "best_for": [
+        "Hook",
+        "Rewind"
+      ],
+      "duration_seconds": 25.31
+    },
+    {
+      "file": "06_Outro/smooth_fade_out_whoosh.mp3",
+      "description": "A soft whoosh with a short fade-out tail.",
+      "best_for": [
+        "Outro",
+        "Soft transition"
+      ],
+      "duration_seconds": 0.47
+    },
+    {
+      "file": "01_Hooks/reverse_rise_crash.mp3",
+      "description": "A rising crash/reverse effect for a fast hook transition.",
+      "best_for": [
+        "Hook",
+        "Reverse riser"
+      ],
+      "duration_seconds": 7.76
+    },
+    {
+      "file": "03_Tension/strings_riser_impact.mp3",
+      "description": "A strings riser and impact effect.",
+      "best_for": [
+        "Dramatic build",
+        "Impact",
+        "Climax"
+      ],
+      "duration_seconds": 14.35
+    }
+  ]
+}
