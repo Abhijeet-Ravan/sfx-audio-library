@@ -58,3 +58,4 @@ Freesound license FAQ: https://freesound.org/help/faq/
 - `01_Hooks/reverse_rise_crash.mp3` — “soneproject__rise-crashandreverse.wav” — https://freesound.org/people/escortmarius/sounds/344886/ — CC0 1.0; preview: https://cdn.freesound.org/previews/344/344886_2527354-hq.mp3.
 - `03_Tension/strings_riser_impact.mp3` — “GREAT Fx Strings Riser Impact.wav” — https://freesound.org/people/SingleCoil/sounds/459525/ — CC0 1.0; preview: https://cdn.freesound.org/previews/459/459525_8946488-hq.mp3.
 - `02_Context_UI/ambient_drone.mp3` was trimmed from the CC0 Freesound high-quality preview to 179.95 seconds.
+- `niche_variations/dark_subharmonic_drone.mp3` was trimmed from the CC0 Freesound high-quality preview to 179.95 seconds.

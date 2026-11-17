@@ -300,12 +300,12 @@
     },
     {
       "file": "niche_variations/dark_subharmonic_drone.mp3",
-      "description": "A dark subharmonic drone for dramatic scenes.",
+      "description": "A dark subharmonic drone, trimmed to 3 minutes.",
       "best_for": [
         "True crime",
         "Drama"
       ],
-      "duration_seconds": 300.0
+      "duration_seconds": 179.95
     },
     {
       "file": "niche_variations/distant_police_siren.mp3",
